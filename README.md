@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiffani-burk
 - 👀 I’m interested in music, martial arts, nature and animals.
-- 🤓 I’m attended Nashville Software School for UX Design and Front-End Development
+- 🤓 I attended Nashville Software School for UX Design and Front-End Development
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ... https://www.linkedin.com/in/tiffani-burk/
 
